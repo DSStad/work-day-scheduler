@@ -14,7 +14,7 @@ N/A
 
 ### Deployed App URL
 
-
+https://dsstad.github.io/work-day-scheduler/
 
 ## Credits 
 
